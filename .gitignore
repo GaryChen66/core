@@ -1,0 +1,24 @@
+# IDE & System Related Files #
+.buildpath
+.project
+.settings
+.DS_Store
+.idea
+.phpintel
+
+# Composer
+/composer.phar
+/vendor
+
+# Test-Related Files
+/clover.xml
+/phpcs.xml
+/phpunit.xml
+
+# phpDocumentor Logs
+phpdoc-*
+
+# OSX
+._*
+.Spotlight-V100
+.Trashes
